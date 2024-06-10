@@ -1,1 +1,2 @@
-# DSA
+# DSA - Data Structures and Algorithms
+This repository is dedicated to Data Structures and Algorithms (DSA). It contains a comprehensive collection of implementations, explanations, and problem-solving techniques across various data structures and algorithms. Whether you're a beginner looking to understand the basics or an experienced programmer aiming to refine your skills, this repository serves as a valuable resource for mastering DSA.
