@@ -13,6 +13,6 @@ Map<int, int> findFrequency(List<int> arr) {
 }
 
 void main() {
-  List<int> arr = [1, 2, 2, 3, 4, 4, 6, 6, 7];
+  List<int> arr = [1, 2, 2, 3, 4, 4, 6, 6, 7, 7];
   print(findFrequency(arr));
 }
