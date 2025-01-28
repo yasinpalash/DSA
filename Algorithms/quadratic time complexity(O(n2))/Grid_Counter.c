@@ -10,7 +10,9 @@ int main()
         {
             count=count+1;
         }
-        printf("n=%d,count=%d\n",n,count);
+       
     }
+    printf("n=%d,count=%d\n", n, count);
+
     return 0;
 }
