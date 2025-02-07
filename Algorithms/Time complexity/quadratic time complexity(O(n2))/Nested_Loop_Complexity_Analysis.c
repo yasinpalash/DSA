@@ -23,3 +23,12 @@ int main()
     }
     printf("count = %d \n", count);
 }
+
+/*
+ *
+ * The given code has two parts:
+ *
+ * 1. Nested Loop (O(n²)): The first loop iterates n times, and the inner loop also iterates n times, resulting in O(n × n) = O(n²).
+ * 2. Single Loop (O(n)): The second loop runs n times, contributing O(n).
+ * Final Time Complexity: O(n²)
+ */
